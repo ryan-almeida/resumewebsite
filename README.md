@@ -17,4 +17,4 @@ This project helped me understand the following concepts: <br>
 3) How to make it more accesible through the web browser by using Route 53 and Amazon Certificate Manager (ACM)
 
 ## Setup
-### 1. Upload HTML file into S3 Bucket 
+#### 1. Upload HTML file into S3 Bucket 
