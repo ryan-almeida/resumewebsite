@@ -20,4 +20,4 @@ This project helped me understand the following concepts: <br>
 ### 1. Upload HTML file into S3 Bucket 
 We first need to create a basic HTML webpage to show our resume. You can use free resources from the internet or customize the "detailed-resume.html" file in the repository. Do not waste too much time formatting since HTML/CSS is not the main focus of the project. The website can always be modified later. <br>
 
-Login to your AWS Managemnt Console and go to S3 > Create Bucket. Enter your desired bucket name:
+Login to your AWS Managemnt Console and go to S3 > Create Bucket. Enter your desired bucket name (make sure you select a unique name!):
