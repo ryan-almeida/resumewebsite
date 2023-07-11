@@ -5,7 +5,7 @@ This is an introductory Hands-On Project I worked on to develop practical skills
 ## Architecture and High Level Design
 
 The website will be built using the following architecture: <br><br>
-![My Image](images/architecture.png)
+![Alt text](reference-architecture.jpeg)
 
 ## Learning Outcomes
 
