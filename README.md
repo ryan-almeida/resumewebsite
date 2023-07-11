@@ -1,7 +1,5 @@
 # Simple Resume Website Project
 
-Visit my project here!: https://cloudwithryan.com/
-
 This is an introductory Hands-On Project I worked on to develop practical skills in the cloud, using AWS. Feel free to read along and attempt it yourself. We will build a simple static website using beginner friendly and widely used services in AWS, such as S3, Cloudfront, and Route 53
 
 ## Architecture and High Level Design
